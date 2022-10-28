@@ -93,7 +93,8 @@ int main(int argc, char *argv[])
 		  }      
  	}
                 
-    
+    finalgpa = totalcal/totalcredit;
+          cout<<"Student's GPA: "<<finalgpa<<"\n";
 	
 	return 0;
 }
